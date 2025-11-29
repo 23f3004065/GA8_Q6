@@ -1,5 +1,5 @@
 Organizational Spending Analysis - Sunburst Diagram
-Email: 23f3004065@ds.study.iitm.ac.in
+23f3004065@ds.study.iitm.ac.in
 Project Overview
 This repository contains a professional Sunburst Diagram visualization created for Schoen Champlin, a strategic consulting firm specializing in advanced data visualization and business intelligence solutions. The visualization analyzes organizational spending breakdown by department and expense type.
 Visualization Details
