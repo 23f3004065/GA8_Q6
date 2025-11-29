@@ -1,0 +1,19 @@
+department,expense,amount
+Marketing,Content,18077
+Marketing,Events,37594
+Marketing,Advertising,24500
+Operations,Supplies,21077
+Operations,Maintenance,15000
+Operations,Logistics,32000
+Finance,Payroll,48000
+Finance,Consulting,22000
+Finance,Auditing,17000
+HR,Recruitment,15000
+HR,Training,12000
+HR,Benefits,10000
+IT,Software,30000
+IT,Hardware,25000
+IT,Cloud Services,18000
+Sales,Travel,20000
+Sales,Client Entertainment,15000
+Sales,Training,12000
