@@ -1,19 +1,21 @@
 department,expense,amount
 Marketing,Content,18077
 Marketing,Events,37594
-Marketing,Advertising,24500
+Marketing,Advertising,45230
+Marketing,Social Media,12450
 Operations,Supplies,21077
-Operations,Maintenance,15000
-Operations,Logistics,32000
-Finance,Payroll,48000
-Finance,Consulting,22000
-Finance,Auditing,17000
-HR,Recruitment,15000
-HR,Training,12000
-HR,Benefits,10000
-IT,Software,30000
-IT,Hardware,25000
-IT,Cloud Services,18000
-Sales,Travel,20000
-Sales,Client Entertainment,15000
-Sales,Training,12000
+Operations,Equipment,34500
+Operations,Maintenance,28900
+Operations,Utilities,15600
+Sales,Travel,42300
+Sales,Client Entertainment,19850
+Sales,Commission,67400
+IT,Software Licenses,38900
+IT,Hardware,29600
+IT,Cloud Services,22700
+IT,Consulting,31200
+HR,Recruitment,24500
+HR,Training,18900
+HR,Benefits,12300
+Finance,Auditing,28400
+Finance,Software,15700
